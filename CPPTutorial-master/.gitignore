@@ -1,0 +1,5 @@
+/build
+# ignore the Eclipse project
+/.settings
+.cproject
+.project 
